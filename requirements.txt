@@ -4,3 +4,4 @@ colorama>=0.3.0
 progressbar>=2.0.0
 networkx>=2.0.0
 matplotlib>=2.2.0
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
